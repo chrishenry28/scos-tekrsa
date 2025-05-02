@@ -14,10 +14,6 @@ authors = [
     { name = "The Institute for Telecommunication Sciences" },
 ]
 
-maintainers = [
-    { name="Anthony Romaniello", email="aromaniello@ntia.gov"},
-]
-
 keywords = [
     "SCOS", "Tektronix", "RSA", "SDR", "spectrum", "analyzer",
     "sensor", "scos-sensor", "radio", "monitoring", "remote",
